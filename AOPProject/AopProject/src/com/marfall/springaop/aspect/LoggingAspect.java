@@ -15,7 +15,8 @@ public class LoggingAspect {
 
    // @Before("execution(public void com.marfall.springaop.dao.AccountDAO.addAccount())")
     //@Before("execution(public void  add*())")  //any class , any method starts with "add"
-    @Before("execution(* add*(com.marfall.springaop.Account, ..))")    //fqcn as parameter
+   // @Before("execution(* add*(com.marfall.springaop.Account, ..))")    //fqcn as parameter
+   @Before("execution(* com.marfall.springaop.dao.*.*(..))")    //fqcn as parameter
     public void beforeAddAccountAdvice() {
 
         System.out.println("\n=====>>> Executing @Before advice on method ");

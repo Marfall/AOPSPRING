@@ -23,6 +23,12 @@ public class MainApp {
         theAccountDAO.addAccount(myAccount, true);
         theAccountDAO.doWork();
 
+        //call the accountDao getter/setter methods
+        theAccountDAO.setName("foobar");
+        theAccountDAO.setSerciveCode("silver");
+
+        String name = theAccountDAO.getName();
+        String code = theAccountDAO.getSerciveCode();
 
         theMembershipDAO.addAccount();
         theMembershipDAO.goToSleep();
