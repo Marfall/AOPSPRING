@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="583aea84-691c-4fb4-8bf8-faa7ebda6a8d" name="Default" comment="" />
+    <list default="true" id="583aea84-691c-4fb4-8bf8-faa7ebda6a8d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.marfall.springaop/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.~lock.AOP.odt#" beforeDir="false" afterPath="$PROJECT_DIR$/../../.~lock.AOP.odt#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AOP.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AOP.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.marfall.springaop/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.marfall.springaop/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marfall/springaop/aspect/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marfall/springaop/aspect/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/marfall/springaop/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marfall/springaop/dao/AccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/marfall/springaop/aspect/LoggingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/marfall/springaop/aspect/LoggingAspect.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,7 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1SkKX2wABEAFXN2eYpqUb0K5D7F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -311,12 +326,27 @@
       <workItem from="1561802717876" duration="2490000" />
       <workItem from="1561805226010" duration="808000" />
       <workItem from="1572102191625" duration="250000" />
-      <workItem from="1572102508122" duration="4699000" />
+      <workItem from="1572102508122" duration="6563000" />
+      <workItem from="1572252206660" duration="126000" />
+      <workItem from="1572795644610" duration="2174000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
